@@ -4,6 +4,7 @@ runnr for Tumblr + Chrome
 When you go out for a run, you go faster, but everything moves slower. The trees, the shop windows, people walking their dog and even time moves slower. You run listening to music, thinking about your stuff and sometimes, without noticing it, you have come a long way.The same thing happens in Tumblr and you don’t even need to wear your running shoes.
 
 Have you ever thought of how many tumblr scroll kilometers you run each day?
+
 We measure that for you.
 
 <p align="center">
@@ -13,7 +14,7 @@ We measure that for you.
 Install
 -------
 
-Go to the [runnr website](http://www.thebanggang.es/runnr/) and use the install button.
+Go to the runnr [website](http://www.thebanggang.es/runnr/) and use the install button.
 
 Done! [It’s magic](http://www.thebanggang.es/runnr/img/its-magic-shia-labeouf.gif). Now go to tumblr and say 'hi' to our runnr.
 
