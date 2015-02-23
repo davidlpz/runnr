@@ -1,0 +1,53 @@
+{
+	"extDescription": {
+		"message": "Have you ever thought of how many tumblr scroll kilometers you run each day? We measure that for you."
+	},
+	"load_error": {
+		"message": "Problem loading saved data"
+	},
+	"save_error": {
+		"message": "Problem saving data"
+	},
+	"achievements": {
+		"message": "Achievements"
+	},
+	"achievementUnlocked": {
+		"message": "Achievement unlocked: "
+	},
+	"achievement1": {
+		"message": "Himalaya"
+	},
+	"achievement2": {
+		"message": "Marathon"
+	},
+	"achievement3": {
+		"message": "Orient Express"
+	},
+	"achievement4": {
+		"message": "I Tour de France"
+	},
+	"achievement5": {
+		"message": "Trans Siberian"
+	},
+	"achievement6": {
+		"message": "Chinese Wall"
+	},
+	"achievement7": {
+		"message": "Around The World"
+	},
+	"achievement8": {
+		"message": "Light speed"
+	},
+	"achievement9": {
+		"message": "To The Moon"
+	},
+	"achievement10": {
+		"message": "Voyager I"
+	},
+	"achievement11": {
+		"message": "Light Year"
+	},
+	"achievement12": {
+		"message": "Proxima Centauri"
+	}
+}
