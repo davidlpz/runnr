@@ -1,16 +1,13 @@
 runnr for Tumblr + Chrome
--------------------------
+=========================
 
-When you go out for a run, you go faster, but everything moves slower.
-The trees, the shop windows, people walking their dog and even time moves slower.
-You run listening to music, thinking about your stuff and sometimes, without noticing it, you have come a long way.
-The same thing happens in Tumblr and you don’t even need to wear your running shoes.
+When you go out for a run, you go faster, but everything moves slower. The trees, the shop windows, people walking their dog and even time moves slower. You run listening to music, thinking about your stuff and sometimes, without noticing it, you have come a long way.The same thing happens in Tumblr and you don’t even need to wear your running shoes.
 
 Have you ever thought of how many tumblr scroll kilometers you run each day?
 We measure that for you.
 
 <p align="center">
-![runner](http://www.thebanggang.es/runnr/img/img_01.png)
+<a href="#"><img src="http://www.thebanggang.es/runnr/img/img_01.png"/></a>
 </p>
 
 Install
@@ -23,7 +20,7 @@ Done! [It’s magic](http://www.thebanggang.es/runnr/img/its-magic-shia-labeouf.
 From time to time he will tell you about your heroic scroll deeds:
 
 <p align="center">
-![achievements](http://www.thebanggang.es/runnr/img/achievements.png)
+<a href="#"><img src="http://www.thebanggang.es/runnr/img/achievements.png"/></a>
 </p>
 
 About
