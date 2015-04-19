@@ -1,0 +1,56 @@
+{
+	"extDescription": {
+		"message": "¿Has pensado alguna vez cuántos kilómetros de scroll haces en tumblr cada día? Nosotros los medimos por ti."
+	},
+	"load_error": {
+		"message": "Fallo al cargar los datos guardados"
+	},
+	"save_error": {
+		"message": "Fallo al salvar los datos"
+	},
+	"total": {
+		"message": "Has corrido:"
+	},
+	"achievements": {
+		"message": "Tus logros:"
+	},
+	"achievementUnlocked": {
+		"message": "Logro desbloqueado: "
+	},
+	"achievement1": {
+		"message": "Himalaya"
+	},
+	"achievement2": {
+		"message": "Maratón"
+	},
+	"achievement3": {
+		"message": "Expreso de Oriente"
+	},
+	"achievement4": {
+		"message": "I Tour de Francia"
+	},
+	"achievement5": {
+		"message": "Transiberiano"
+	},
+	"achievement6": {
+		"message": "Muralla China"
+	},
+	"achievement7": {
+		"message": "Vuelta al mundo"
+	},
+	"achievement8": {
+		"message": "Velocidad de la luz"
+	},
+	"achievement9": {
+		"message": "Viaje a la luna"
+	},
+	"achievement10": {
+		"message": "Voyager I"
+	},
+	"achievement11": {
+		"message": "Año luz"
+	},
+	"achievement12": {
+		"message": "Próxima Centauri"
+	}
+}
