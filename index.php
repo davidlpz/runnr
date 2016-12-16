@@ -36,7 +36,7 @@ if (is_null($lang)) $lang = 'es';
 <meta property="og:description" content="<?php echo strip_tags($texto[$lang]['description']); ?>" />
 <meta property="og:site_name" content="<?php echo $url; ?>" />
 <!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 <![endif]-->
 </head>
 <body>
