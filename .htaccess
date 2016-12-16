@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^(en)/?$ index.php?lang=$1 [L]
+RewriteRule ^(en)/?$ index_en.html [L]
