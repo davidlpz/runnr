@@ -8,20 +8,20 @@ Have you ever thought of how many tumblr scroll kilometers you run each day?
 We measure that for you.
 
 <p align="center">
-<a href="#"><img src="http://www.thebanggang.es/runnr/img/img_01.png"/></a>
+<a href="#"><img src="http://davidlpz.github.io/runnr/img/img_01.png"/></a>
 </p>
 
 Install
 -------
 
-Go to the runnr [website](http://www.thebanggang.es/runnr/) and use the install button.
+Go to the runnr [website](http://davidlpz.github.io/runnr/) and use the install button.
 
-Done! [It’s magic](http://www.thebanggang.es/runnr/img/its-magic-shia-labeouf.gif). Now go to tumblr and say 'hi' to our runner.
+Done! [It’s magic](http://davidlpz.github.io/runnr/img/its-magic-shia-labeouf.gif). Now go to tumblr and say 'hi' to our runner.
 
 From time to time he will tell you about your heroic scroll deeds:
 
 <p align="center">
-<a href="#"><img src="http://www.thebanggang.es/runnr/img/achievements.png"/></a>
+<a href="#"><img src="http://davidlpz.github.io/runnr/img/achievements.png"/></a>
 </p>
 
 About
