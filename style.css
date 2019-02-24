@@ -26,11 +26,11 @@ nav, section, summary, mark, audio, video{
 	vertical-align:baseline;
 }
 *{
-	-moz-box-sizing:border-box;
 	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
 	box-sizing:border-box;
 }
-html,body{
+html, body{
 	height:100%;
 }
 body{
@@ -44,30 +44,17 @@ body{
 a{
 	text-decoration:none;
 	color:inherit;
+	transition: border .15s;
+	border-bottom: 1px solid transparent;
+}
+a:hover{
+	border-color: inherit;
 }
 strong, b{
 	font-weight:700;
 }
 em, i, cite{
 	font-style:italic;
-}
-input,
-button{
-	font:inherit;
-	outline:none;
-	vertical-align:middle;
-	-webkit-appearance:none;
-	-webkit-box-sizing:border-box;
-	-moz-box-sizing:border-box;
-	box-sizing:border-box;
-	border-radius:0;
-	border:none;
-}
-input[type="search"]::-webkit-search-decoration,
-input[type="search"]::-webkit-search-cancel-button,
-input[type="search"]::-webkit-search-results-button,
-input[type="search"]::-webkit-search-results-decoration{
-	display:none;
 }
 .clear:after{
 	content:"";
@@ -81,6 +68,7 @@ section{
 }
 .row{
 	width:900px;
+	max-width:90%;
 	margin:0 auto;
 }
 nav{
@@ -107,6 +95,7 @@ nav{
 }
 #home .img01{
 	margin-bottom:40px;
+	max-width:100%;
 }
 #about{
 	background-color:#ebecee;
@@ -115,13 +104,20 @@ nav{
 #about h2{
 	margin-bottom:50px;
 }
+#about img{
+	max-width:90%;
+}
 #install-button{
+	display:block;
 	background:#4373a9;
 	color:#ebecee;
-	font-size:4em;
-	padding:20px 100px;
-	margin:15px 0 55px;
+	font-size:3.5em;
+	padding:20px 0 22px;
+	margin:15px auto 55px;
+	width: 500px;
+	max-width: 85%;
 	cursor:pointer;
+	transition: background .2s linear;
 }
 #install-button:hover{
 	background:#8eabcb;
