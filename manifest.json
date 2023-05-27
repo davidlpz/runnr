@@ -2,7 +2,7 @@
 	"name": "runnr",
 	"description": "__MSG_extDescription__",
 	"author": "David López",
-	"version": "0.4",
+	"version": "0.5",
 	"default_locale": "en",
 	"manifest_version": 2,
 	"page_action": {
@@ -27,7 +27,7 @@
 		"48": "img/icon48.png",
 		"16": "img/icon16.png"
 	},
-	"permissions": ["storage", "activeTab"],
+	"permissions": ["storage"],
 	"web_accessible_resources": [
 		"img/runner.png"
 	]

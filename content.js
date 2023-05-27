@@ -17,7 +17,7 @@ $(function(){
 			px = now - last;
 		last = now;
 		if (px < 0) return;
-		session += px*0.0000005;
+		session += px*0.000001;
 		update_counter();
 
 		chrome.runtime.sendMessage({ action: 'update', session: session }, function(response) {
